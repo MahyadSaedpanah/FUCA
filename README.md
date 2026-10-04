@@ -1,4 +1,7 @@
 # FUCA: Factorized and Uncertainty-Aware Contrastive Alignment for Time Series Domain Adaptation
+[![Anonymous Review](https://img.shields.io/badge/Status-Anonymous%20Review-lightgrey.svg)](#anonymity-notice)
+[![Third-Party Licenses](https://img.shields.io/badge/Third--Party-Licenses-blue.svg)](#third-party-assets-and-licenses)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Official anonymous implementation of the paper:
 
